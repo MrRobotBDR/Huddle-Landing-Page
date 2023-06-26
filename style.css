@@ -48,12 +48,12 @@ p {
 
 .cta {
 	text-decoration: none;
-	font-size: 12px;
+	font-size: 18px;
 	color: var(--Violet-purple);
 	background-color: var(--white);
 	border-radius: 28px;
 	box-shadow: 2px 4px 9px 3px rgba(0, 0, 0, 0.26);
-	padding: 10px 50px;
+	padding: 15px 100px;
 	font-family: "Open Sans", sans-serif;
 }
 
